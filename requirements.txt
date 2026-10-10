@@ -1,0 +1,40 @@
+# Cartridge — runtime dependencies
+#
+# Target: Windows 7 SP1 x64 + Python 3.8.x (verified-good baseline: 3.8.20)
+# Also runs on Linux/macOS for development and portable testing.
+#
+# Every pin below was checked against the "Requires-Python" metadata published
+# on PyPI on 2026-10-09 and is installable on Python 3.8:
+#
+#   PyQt5        5.15.11   requires-python >=3.8   (cp38-abi3 wheels, win_amd64 + manylinux)
+#   PyQt5-Qt5    5.15.2    requires-python  n/a    (py3-none-win_amd64 + manylinux2014 wheels)
+#   PyQt5-sip    12.15.0   requires-python >=3.8   (cp38 wheels)
+#   httpx        0.28.1    requires-python >=3.8
+#   httpcore     1.0.9     requires-python >=3.8
+#   h11          0.16.0    requires-python >=3.8
+#   anyio        4.6.2     requires-python >=3.8   (4.7+ raises the floor past 3.8)
+#   sniffio      1.3.1     requires-python >=3.7
+#   idna         3.10      requires-python >=3.6   (3.11+ raises the floor past 3.8 in practice)
+#   certifi      2025.1.31 requires-python >=3.6
+#
+# NOTE ON THE Qt RUNTIME PIN: PyQt5-Qt5 5.15.2 is pinned deliberately. It is the
+# Qt build that ships with the known-good Windows 7 environment described in the
+# project brief. Do not upgrade it "just because a newer 5.15.x exists" —
+# 5.15.3+ Windows binaries are built on newer toolchains and are the most common
+# cause of "works on Windows 10, fails on Windows 7" reports. If you must change
+# it, re-run docs/WINDOWS7_LIVE_TEST.md on the Dell first.
+#
+# Transitive dependencies are pinned explicitly because pip's resolver on an
+# offline/old machine may otherwise pick a newer, incompatible release.
+
+PyQt5==5.15.11
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.15.0
+
+httpx==0.28.1
+httpcore==1.0.9
+h11==0.16.0
+anyio==4.6.2
+sniffio==1.3.1
+idna==3.10
+certifi==2025.1.31

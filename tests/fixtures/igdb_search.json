@@ -1,0 +1,76 @@
+{
+  "_comment": "Sanitized IGDB v4 /games search response shape. No credentials, no real tokens. Captured structure only.",
+  "payload": [
+    {
+      "id": 17916,
+      "name": "The Witcher 2: Assassins of Kings Enhanced Edition",
+      "summary": "The second chapter of RPG saga set in the world of Andrzej Sapkowski's books.",
+      "storyline": null,
+      "first_release_date": 1305849600,
+      "release_dates": [
+        { "date": 1305849600, "category": 0, "platform": 6 },
+        { "date": 1334102400, "category": 0, "platform": 6 }
+      ],
+      "rating": 82.31,
+      "aggregated_rating": 85.0,
+      "total_rating": 82.31,
+      "genres": [
+        { "name": "Role-playing (RPG)" },
+        { "name": "Adventure" },
+        { "name": "Hack and slash/Beat'em up" }
+      ],
+      "platforms": [
+        { "name": "PC (Microsoft Windows)" },
+        { "name": "Xbox 360" },
+        { "name": "Mac" }
+      ],
+      "involved_companies": [
+        { "company": { "name": "CD Projekt RED" }, "developer": true, "publisher": false },
+        { "company": { "name": "CD Projekt" }, "developer": false, "publisher": true },
+        { "company": { "name": "Atari" }, "developer": false, "publisher": true }
+      ],
+      "collection": { "name": "The Witcher" },
+      "alternative_names": [
+        { "name": "Wiedźmin 2: Zabójcy Królów" },
+        { "name": "Wiedzmin 2" },
+        { "name": "The Witcher 2" }
+      ],
+      "age_ratings": [
+        { "category": 2, "rating": 5 },
+        { "category": 1, "rating": 6 }
+      ],
+      "cover": { "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1wyy.jpg" },
+      "screenshots": [
+        { "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc0abc.jpg" },
+        { "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc0abd.jpg" }
+      ],
+      "url": "https://www.igdb.com/games/the-witcher-2-assassins-of-kings-enhanced-edition"
+    },
+    {
+      "id": 25076,
+      "name": "The Witcher 3: Wild Hunt",
+      "summary": "RPG sequel to The Witcher 2.",
+      "first_release_date": 1431993600,
+      "rating": 92.1,
+      "genres": [ { "name": "Role-playing (RPG)" } ],
+      "platforms": [ { "name": "PC (Microsoft Windows)" } ],
+      "involved_companies": [
+        { "company": { "name": "CD Projekt RED" }, "developer": true, "publisher": true }
+      ],
+      "collection": { "name": "The Witcher" },
+      "alternative_names": [ { "name": "Wiedźmin 3: Dziki Gon" } ],
+      "cover": { "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1rgi.jpg" },
+      "screenshots": [],
+      "url": "https://www.igdb.com/games/the-witcher-3-wild-hunt"
+    },
+    {
+      "id": 999,
+      "name": null,
+      "summary": 12345,
+      "rating": "not a number",
+      "genres": "should be a list",
+      "cover": "not a dict",
+      "platforms": [ { "name": 42 }, null ]
+    }
+  ]
+}

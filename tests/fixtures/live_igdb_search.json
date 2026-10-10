@@ -1,0 +1,266 @@
+{
+  "_comment": "Sanitized live IGDB capture. No credentials.",
+  "captured_at": "2026-10-09T09:03:16Z",
+  "payload": [
+    {
+      "id": 478,
+      "age_ratings": [
+        {
+          "id": 222155
+        },
+        {
+          "id": 188464
+        },
+        {
+          "id": 184207
+        },
+        {
+          "id": 93890
+        },
+        {
+          "id": 126215
+        },
+        {
+          "id": 4321
+        }
+      ],
+      "aggregated_rating": 85.71428571428571,
+      "alternative_names": [
+        {
+          "id": 7392,
+          "name": "Ведьмак 2: Убийцы королей"
+        },
+        {
+          "id": 2493,
+          "name": "Wiedźmin 2: Zabójcy królów"
+        },
+        {
+          "id": 256032,
+          "name": "Zaklínač 2: Vrahové králů"
+        }
+      ],
+      "cover": {
+        "id": 89356,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1wy4.jpg"
+      },
+      "first_release_date": 1305590400,
+      "genres": [
+        {
+          "id": 12,
+          "name": "Role-playing (RPG)"
+        },
+        {
+          "id": 31,
+          "name": "Adventure"
+        }
+      ],
+      "involved_companies": [
+        {
+          "id": 17777,
+          "company": {
+            "id": 908,
+            "name": "CD Projekt RED"
+          },
+          "developer": true,
+          "publisher": true
+        },
+        {
+          "id": 17773,
+          "company": {
+            "id": 3119,
+            "name": "cdp.pl"
+          },
+          "developer": false,
+          "publisher": true
+        },
+        {
+          "id": 17775,
+          "company": {
+            "id": 74,
+            "name": "CyberFront"
+          },
+          "developer": false,
+          "publisher": true
+        },
+        {
+          "id": 17774,
+          "company": {
+            "id": 248,
+            "name": "Bandai Namco Entertainment"
+          },
+          "developer": false,
+          "publisher": true
+        },
+        {
+          "id": 17776,
+          "company": {
+            "id": 1217,
+            "name": "Spike Chunsoft"
+          },
+          "developer": false,
+          "publisher": true
+        },
+        {
+          "id": 237425,
+          "company": {
+            "id": 2406,
+            "name": "Atari, Inc."
+          },
+          "developer": false,
+          "publisher": true
+        }
+      ],
+      "name": "The Witcher 2: Assassins of Kings",
+      "platforms": [
+        {
+          "id": 3,
+          "name": "Linux"
+        },
+        {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        },
+        {
+          "id": 14,
+          "name": "Mac"
+        },
+        {
+          "id": 12,
+          "name": "Xbox 360"
+        }
+      ],
+      "rating": 84.57277042666516,
+      "release_dates": [
+        {
+          "id": 19664,
+          "date": 1400716800
+        },
+        {
+          "id": 19661,
+          "date": 1334707200
+        },
+        {
+          "id": 19663,
+          "date": 1350518400
+        },
+        {
+          "id": 19659,
+          "date": 1334620800
+        },
+        {
+          "id": 19660,
+          "date": 1334620800
+        },
+        {
+          "id": 19662,
+          "date": 1345680000
+        },
+        {
+          "id": 19658,
+          "date": 1305590400
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 6520,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/qelsfsxjgnkz5zuvaat4.jpg"
+        },
+        {
+          "id": 328,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/zb5whw2xb13yavuzqhhy.jpg"
+        },
+        {
+          "id": 944,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/auslwvtps8woqdd5t0um.jpg"
+        },
+        {
+          "id": 329,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/fujznpait3vgks1fsf8u.jpg"
+        },
+        {
+          "id": 327,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/few5b8tm9daauwv29opk.jpg"
+        }
+      ],
+      "storyline": "The player is Geralt of Rivia, a professional monster slayer, a witcher. Entangled in the political turmoil that engulfed Temeria, Geralt helped quell the rebellion of the Order of the Flaming Rose. Soon after, he saved King Foltest’s life when the monarch was attacked by a witcher-like assassin. He continues to protect the king, serving as his bodyguard as Foltest strives to bring peace to his kingdom. The Order’s last bastions have yielded to the royal army, yet one more task remains - the Baroness La Valette announced her secession from the realm, and her fortress must be taken. A month after the attempted assassination, Foltest’s armies stand at the gates of La Valette Castle, preparing for a final assault. Still at Foltest’s side, Geralt is among them, unable to begin his personal quest to discover the mysterious assassin’s origin and identity.",
+      "summary": "This third-person dark fantasy Western RPG and sequel to The Witcher (2007), featuring multiple endings and branching narrative paths, follows the travels of Geralt of Rivia, witcher, who, after being falsely accused of regicide, sets out to clear his name and find the real killer, in a time of political turmoil and the brink of war between the imperialistic Nilfgaardian Empire and the Four Kingdoms.",
+      "total_rating": 85.14352807047544,
+      "url": "https://www.igdb.com/games/the-witcher-2-assassins-of-kings"
+    },
+    {
+      "id": 22319,
+      "age_ratings": [
+        {
+          "id": 58616
+        }
+      ],
+      "aggregated_rating": 90.0,
+      "cover": {
+        "id": 121131,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2lgr.jpg"
+      },
+      "first_release_date": 1334620800,
+      "genres": [
+        {
+          "id": 12,
+          "name": "Role-playing (RPG)"
+        },
+        {
+          "id": 31,
+          "name": "Adventure"
+        }
+      ],
+      "involved_companies": [
+        {
+          "id": 116399,
+          "company": {
+            "id": 908,
+            "name": "CD Projekt RED"
+          },
+          "developer": true,
+          "publisher": false
+        },
+        {
+          "id": 237418,
+          "company": {
+            "id": 2406,
+            "name": "Atari, Inc."
+          },
+          "developer": false,
+          "publisher": true
+        }
+      ],
+      "name": "The Witcher 2: Assassins of Kings - Dark Edition",
+      "platforms": [
+        {
+          "id": 12,
+          "name": "Xbox 360"
+        }
+      ],
+      "rating": 82.36445192696296,
+      "release_dates": [
+        {
+          "id": 117933,
+          "date": 1334620800
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 128906,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/n3t1e4m2hsuy7qmc2wnk.jpg"
+        },
+        {
+          "id": 416767,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc8xkv.jpg"
+        },
+        {
+          "id": 416768,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc8xkw.jpg"
+        }
+      ],
+      "summary": "Compared to the initial award winning PC release, the Xbox 360 edition will feature lots of new and exciting content.\n\nAdditional hours of gameplay for the Xbox 360: New major adventures set in previously unseen locations, expanding the story and introducing new characters, mysteries and monsters.\n\nNew Game Introduction and cinematic: All new animations and cut scenes, including a new, three and a half minute pre-rendered cinematic depicting the assassination of King Demavend of Aedirn. BAFTA Award winner and Academy Award nominee Tomasz Baginski brings this key historical event to life, setting the stage for the story told in The Witcher 2.\n\nUpgraded interface, designed specifically for the Xbox 360: Game camera and targeting have been redesigned for the Xbox, and with upgraded pad controls, players will now be able to experience fully The Witcher 2's spectacular and thrilling combat.\n\nDark Edition content:\n\nThe Witcher 2: Assassins of Kings game on 2 DVDs,\n\nMAKING-OF DVD: All the cinematic materials related to game - trailers, dev diaries, gameplay footage, interviews and making-of exclusive video.\n\nWORLD MAP: A map of the game's world.\n\nTHE WITCHER MEDALLION: A wolf head metal medallion on a chain.\n\nQUEST HANDBOOK: The Witcher 2 quest handbook for both novice and experienced role-playing fans.\n\nGAME MANUAL: A rulebook and interface explanation to help you get started.\n\nARTBOOK: Extensive, 232 pages documentary of game's graphical assets with descriptions. Including concept arts, cover renders and stories behind Art of The Witcher 2.\n\nSTICKERS: Three stickers with Witcher 2 graphics.\n\nDARK EDITION BOX: An elegant thick cardboard box to hold all your valuable Dark Edition contents.",
+      "total_rating": 86.18222596348147,
+      "url": "https://www.igdb.com/games/the-***REDACTED***"
+    }
+  ]
+}
